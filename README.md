@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👨🏻‍💻 Nicholas de Souza
 
-<!--
-**Nicholas-SAS/Nicholas-SAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Florianópolis, SC | 🎂 19 anos  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor em formação
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou sempre buscando aprender, criar projetos e evoluir minhas habilidades em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+- C / C++
+- Python
+- HTML / CSS / JavaScript
+- SQL / MySQL
+- Git & GitHub
+
+🚀 Sempre aprendendo, criando e evoluindo.
