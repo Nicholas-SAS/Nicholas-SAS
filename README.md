@@ -20,7 +20,6 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender e ampliar meus co
 ### 🤖 Linguagens e Tecnologias
 
 ![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -28,4 +27,3 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender e ampliar meus co
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
