@@ -4,8 +4,7 @@
 
 👋 Olá! Me chamo Nicholas, tenho 19 anos e moro em Florianópolis - SC. 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
-
-Sou apaixonado por tecnologia e estou sempre buscando aprender e ampliar meus conhecimentos.
+Estou sempre explorando novas tecnologias, colocando o que aprendo em prática e desenvolvendo projetos para evoluir minhas habilidades como desenvolvedor.
 
 ---
 
